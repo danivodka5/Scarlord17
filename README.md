@@ -8,3 +8,7 @@ h- 💞️ I’m looking to collaborate on ...
 Scarlord17/Scarlord17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+
+Hola! Me gustaria contactar contigo, si pudieras dejar alguna forma de contacto seria genial <3
+Saludos 
+- Daniel.
